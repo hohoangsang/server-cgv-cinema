@@ -1,0 +1,22 @@
+{
+  "name": "json-server-cinema-cgv",
+  "version": "1.0.0",
+  "description": "server cgv cinema with json server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "nodemon main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Sang Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
